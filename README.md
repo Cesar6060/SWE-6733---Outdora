@@ -29,9 +29,7 @@ Repository: GitHub
 Project Management: Jira
 
 ### Tech stack 
-React 
-Language: Java 
-DB: Firebase 
+React Native, Firebase 
 
 
  
